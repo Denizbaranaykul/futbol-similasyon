@@ -1,0 +1,1 @@
+gcc nss.c -o futboll $(pkg-config --cflags --libs gtk+-3.0 glib-2.0)
