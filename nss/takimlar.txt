@@ -1,0 +1,20 @@
+Manchester City: Sut=95, Pas=85, Hiz=86, Teknik=90, Defans=90
+Manchester United: Sut=80, Pas=80, Hiz=80, Teknik=80, Defans=80
+Chelsea: Sut=88, Pas=87, Hiz=90, Teknik=75, Defans=80
+Arsenal: Sut=85, Pas=85, Hiz=85, Teknik=79, Defans=80
+Nothingam Forest: Sut=77, Pas=75, Hiz=75, Teknik=78, Defans=70
+bournemounth: Sut=78, Pas=75, Hiz=75, Teknik=75, Defans=60
+Aston Villa: Sut=85, Pas=70, Hiz=88, Teknik=70, Defans=70
+Fullham: Sut=75, Pas=76, Hiz=75, Teknik=70, Defans=70
+Brighton: Sut=76, Pas=76, Hiz=85, Teknik=70, Defans=70
+Tottenhem: Sut=88, Pas=81, Hiz=85, Teknik=80, Defans=70
+Liverpool: Sut=92, Pas=88, Hiz=95, Teknik=90, Defans=90
+Brentford: Sut=78, Pas=70, Hiz=75, Teknik=70, Defans=70
+Newcastle United: Sut=82, Pas=77, Hiz=77, Teknik=80, Defans=70
+Westham United: Sut=76, Pas=76, Hiz=75, Teknik=80, Defans=70
+Crystal Palace: Sut=79, Pas=76, Hiz=75, Teknik=70, Defans=60
+Everton: Sut=70, Pas=70, Hiz=75, Teknik=70, Defans=60
+Leicester City:Sut=70, Pas=66, Hiz=65, Teknik=60, Defans=50
+Wolverhempton: Sut=66, Pas=66, Hiz=85, Teknik=60, Defans=50
+Ipswhich: Sut=56, Pas=66, Hiz=75, Teknik=60, Defans=50
+Southampton: Sut=76, Pas=76, Hiz=75, Teknik=80, Defans=50
